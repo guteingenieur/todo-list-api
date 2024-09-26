@@ -57,7 +57,3 @@ The API will be available at `http://localhost:8080/api/tasks`.
 - Add user authentication and authorization.
 - Implement task prioritization and due dates.
 - Add filtering and sorting options for tasks.
-
-## License
-- This project is licensed under the MIT License.
-
